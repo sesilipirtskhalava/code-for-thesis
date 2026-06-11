@@ -2,7 +2,6 @@
 ## Contents
 
 - `notebooks/`: Jupyter notebooks for dataset preprocessing, GEARS prediction, baseline comparison, and evaluation.
-- `figures/`: figures generated for the thesis.
 
 ## Datasets
 
@@ -16,6 +15,9 @@ Main packages used:
 - pandas
 - numpy
 - scipy
+- torch
 - scikit-learn
 - GEARS
 - matplotlib
+- seaborn
+- pickle
