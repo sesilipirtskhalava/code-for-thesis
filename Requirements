@@ -1,0 +1,18 @@
+
+## Environment
+- Kaggle Notebooks
+- Python 3.12.13
+- GPU acceleration for model training
+
+Main packages used:
+- Python
+- scanpy
+- pandas
+- numpy
+- scipy
+- torch
+- scikit-learn
+- GEARS
+- matplotlib
+- seaborn
+- pickle
